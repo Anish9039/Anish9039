@@ -1,11 +1,7 @@
 ### Hi, I'm Anish 👋
-**Data Engineer | Product Analyst | Builder**
-
-🔭 **Currently working on:**
-- Scaling [SilverNepal.com](https://silvernepal.com) (Live Gold/Silver Pricing Engine)
-- Building **SomaQuant** (Predictive Risk AI)
+**Data/AI Engineer | Product Analyst | Builder**
 
 🛠 **Tech Stack:**
-- **Data:** Python, Polars, Pandas, SQL (PostgreSQL)
+- **Data:** Python, Polars, Pandas, SQL (PostgreSQL), power BI
 - **Backend:** FastAPI, Django , javascript
 - **Architecture:** ETL Pipelines, System Design
