@@ -1,5 +1,5 @@
 ### Hi, I'm Anish 👋
-**Data/AI Engineer | Product Analyst | Builder**
+**Data/AI Engineer | Data Analyst | Builder**
 
 🛠 **Tech Stack:**
 - **Data:** Python, Polars, Pandas, SQL (PostgreSQL), power BI
