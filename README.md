@@ -1,64 +1,52 @@
-# Anish Thapa
-**Data & AI Engineer | Data Analyst | Full-Stack Builder**
+<h1 align="center">Anish Thapa</h1>
+<p align="center">
+   Data & AI Engineer • Systems Architect
+</p>
 
-I design and build data systems, AI-powered applications, and scalable backend architectures.
-Currently focused on healthcare data analytics and AI-driven SaaS systems.
-
----
-
-## 🔧 Core Skills
-
-### Data Engineering
-- Python (Pandas, Polars)
-- SQL (PostgreSQL, MySQL)
-- ETL Pipelines
-- Data Modeling
-- Power BI
-
-### Backend Engineering
-- FastAPI
-- Django
-- REST APIs
-- Authentication (JWT)
-- API Integrations (Travelport / Sabre)
-
-### Architecture
-- System Design
-- SaaS Architecture
-- Cloud Deployment (VPS, Fly.io, GCP)
-- AI + Knowledge Base Systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anish9039&color=grey&style=flat" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### About
 
-### 1. AI Knowledge Base SaaS
-FastAPI + LLM powered document intelligence system  
-- PDF ingestion  
-- Vector embeddings  
-- Multi-tenant chat widget  
-- Insight tracking  
-
-### 2. SilverNepal
-Precious metals analytics dashboard  
-- Real-time gold & silver tracking  
-- Data visualization  
-- Technical indicators  
-
-### 3. Healthcare Data Analytics Project
-US healthcare dataset analysis  
-- ETL pipeline  
-- Cleaning & transformation  
-- Business insights dashboard  
+Founder building AI-driven and data-centric products.
+Focused on scalable SaaS architecture, intelligent systems, and analytics platforms.
 
 ---
 
-## 📊 GitHub Stats
+### Current Focus
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anish9039&color=blue)
+• AI-powered Knowledge Base Systems  
+• Healthcare Data Analytics  
+• Precious Metals Intelligence Platform (SilverNepal)  
+• Scalable Backend & ETL Architecture  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn]
-- Email: anishthapa9039@gmail.com
+### Stack
+
+**Engineering**  
+Python • FastAPI • Django • PostgreSQL • SQL
+
+**Data**  
+Polars • Pandas • ETL Pipelines • Analytics • Power BI
+
+**Architecture**  
+System Design • Multi-tenant SaaS • API Integrations • Cloud Deployment
+
+---
+
+### Philosophy
+
+Build systems that scale.  
+Design with clarity.  
+Ship with discipline.
+
+---
+
+### Contact
+
+anishthapa9039@gmail.com  
+LinkedIn: 
