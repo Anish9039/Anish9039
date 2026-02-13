@@ -19,7 +19,6 @@ Focused on scalable SaaS architecture, intelligent systems, and analytics platfo
 ### Current Focus
 
 • AI-powered Knowledge Base Systems  
-• Healthcare Data Analytics  
 • Precious Metals Intelligence Platform (SilverNepal)  
 • Scalable Backend & ETL Architecture  
 
