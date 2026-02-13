@@ -11,7 +11,7 @@
 
 ### About
 
-Founder building AI-driven and data-centric products.
+ building AI-driven and data-centric products.
 Focused on scalable SaaS architecture, intelligent systems, and analytics platforms.
 
 ---
