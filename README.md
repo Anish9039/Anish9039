@@ -48,4 +48,4 @@ Ship with discipline.
 ### Contact
 
 anishthapa9039@gmail.com  
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/anisthapa/
