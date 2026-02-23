@@ -47,5 +47,4 @@ Ship with discipline.
 
 ### Contact
 
-anishthapa9039@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anisthapa/
