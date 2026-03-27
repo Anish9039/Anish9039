@@ -30,12 +30,6 @@ System Design • Multi-tenant SaaS • API Integrations • Cloud Deployment
 
 ---
 
-### Philosophy
-
-Build systems that scale.  
-Design with clarity.  
-Ship with discipline.
-
 ---
 
 ### Contact
