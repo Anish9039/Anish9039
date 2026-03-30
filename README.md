@@ -11,7 +11,7 @@
 
 ### About
 
- building AI-driven and data-centric products.
+ Building AI-driven and data-centric products.
 Focused on scalable SaaS architecture, intelligent systems, and analytics platforms.
 
 ---
