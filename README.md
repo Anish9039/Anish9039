@@ -28,9 +28,7 @@ Polars • Pandas • ETL Pipelines • Analytics • Power BI
 **Architecture**  
 System Design • Multi-tenant SaaS • API Integrations • Cloud Deployment
 
----
 
----
 
 ### Contact
 
