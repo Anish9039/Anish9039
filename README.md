@@ -1,6 +1,6 @@
 <h1 align="center">Anish Thapa</h1>
 <p align="center">
-   Data & AI Engineer • Systems Architect
+Product-Focused AI & Data Engineer • Systems Architect
 </p>
 
 <p align="center">
