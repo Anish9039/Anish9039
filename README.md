@@ -4,7 +4,7 @@ Product-Focused AI & Data Engineer • Systems Architect
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anish9039&color=grey&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Anish9039&color=blue&style=flat" />
 </p>
 
 ---
