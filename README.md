@@ -42,5 +42,5 @@ I bridge the gap between complex data ecosystems and user-centric products. My w
 ---
 
 <div align="center">
-  <sub>Built with precision by Anish Thapa. Let's build something intelligent.</sub>
+  <sub>Built with precision by Anish Thapa. Let's build something intelligent :).</sub>
 </div>
