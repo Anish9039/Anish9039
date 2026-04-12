@@ -34,10 +34,10 @@ I bridge the gap between complex data ecosystems and user-centric products. My w
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anish9039&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish9039&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+</p> -->
 
 ---
 
