@@ -31,15 +31,6 @@ I bridge the gap between complex data ecosystems and user-centric products. My w
 | **Insights** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=flat-square) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![System Design](https://img.shields.io/badge/System-Design-lightgrey?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud-Deployment-orange?style=flat-square) |
 
----
-
-### 📊 GitHub Analytics
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anish9039&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish9039&layout=compact&theme=tokyonight&langs_count=6" />
-</p> -->
-
----
 
 <div align="center">
   <sub>Built with precision by Anish Thapa. Let's build something intelligent :).</sub>
