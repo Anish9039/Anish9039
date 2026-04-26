@@ -24,7 +24,7 @@ I bridge the gap between complex data ecosystems and user-centric products. My w
 
 ### 🛠️ Technical Ecosystem
 
-| Category | Tech Stack |
+| Category | TechStack |
 | :--- | :--- |
 | **Backend & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
 | **Data Engineering** | ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
